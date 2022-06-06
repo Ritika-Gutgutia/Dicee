@@ -1,0 +1,26 @@
+body {
+  background-color: #413F42;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #6D9886;
+  font-family:'Merriweather Sans', sans-serif;
+}
+
+h2, h3 {
+  font-size: 1.5rem;
+  font-family: cursive;
+}
+
+#graffity {
+  color: #6D9886;
+  padding: 50px;
+}
+
+
+#copy-right {
+color: white;
+padding: 25px;
+}
